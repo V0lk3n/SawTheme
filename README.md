@@ -4,6 +4,10 @@
 
 Just for fun, this is a SAW Theme for Windows 11 made using PowerShell
 
+# WIP
+
+Not released yet, updating the Readme until I release it.
+
 ## Instalation
 
 - Download the Theme folder `Win11-SawTheme`
