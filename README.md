@@ -8,27 +8,48 @@ Just for fun, this is a SAW Theme for Windows 11 made using PowerShell
 
 Not released yet, updating the Readme until I release it.
 
+## TODO :
+ - Better Alert Box for Custom Task 20% Battery Alert
+ - Double Check that Custom Task 20% Battery Alert is Triggered Only Once
+ - LogOnMedia depend of the "Welcome" time to LogOn, try to find a workaround
+## If Possible :
+ - Lock Screen Clock Modification
+ - Profil Pic
+ - Cursor
+ - Boot logo
+ - Customize Taskbar
+ - More Random Custom Icons
+ - Attempt Something for LogOff/SystemExit
+
 ## Instalation
 
 - Download the Theme folder `Win11-SawTheme`
 - Move it to `C:\Windows\Resources\Themes\Win11-SawTheme`
 - Run the batch script `Win11-SawTheme\Setup\run.bat` to install the theme.
 
-## Features
-
-### Wallpaper
-- Background Wallpaper
+## Feature
 
 ### System Modification
 
 - LowBattery set from 10 to 15%
+
+### Wallpaper
+
+- Background Wallpaper
+- LockScreen Wallpaper
+
+### Scheduled Tasks
+
 - LowBattery Custom Scheduled Task Play Sound at 20% (BatteryMonitor run each 2min)
+- LogOn Media
+
+### Custom Icon
+
+- RecycleBin
 
 ### Custom Sounds
+
 - EmptyRecycleBin
-- SystemExit (WIP)
-- WindowsLogon (WIP)
-- WindowsLogoff (WIP)
 - WindowsUac
 - Notification.Default
 - SystemNotification
