@@ -10,17 +10,13 @@ Not released yet, updating the Readme until I release it.
 
 # TODO :
  - Better Alert Box for Custom Task 20% Battery Alert
- - Double Check that Custom Task 20% Battery Alert is Triggered Only Once
- - LogOnMedia depend of the "Welcome" time to LogOn, try to find a workaround
- - Arrow Cursor more precision (maybe change it)
-# If Possible :
- - Lock Screen Clock Modification
- - Profil Pic
  - Cursor (Loading, Help)
- - Boot logo
- - Customize Taskbar
  - More Random Custom Icons
+# If Possible :
+ - Profil Pic
  - Attempt Something for LogOff/SystemExit
+ - Lock Screen Clock Modification
+ - Windows logo (boot / taskbar)
 
 ## Installation
 
@@ -30,22 +26,40 @@ Not released yet, updating the Readme until I release it.
 
 ## Feature
 
-### Custom Cursor
+### Cursors
 
 - Default Cursor (Arrow)
 - Hand (Hand)
 - Busy (Wait)
+- Warning (No)
 - Move Arrow (SizeAll)
 - Arrow up-down (SizeNS)
 - Arrow left-right (SizeWE)
 - Arrow Diagonal 1 (SizeNWSE)
 - Arrow Diagonal 2 (SizeNESW)
 
-### Custom Icon
+### Easter Egg
+
+- Spam Click (10 click in 3seconds or less)
+
+### Environment
+
+- Dark Mode
+- Red Environment (Taskbar / Start Menu...)
+- Background Wallpaper
+- LockScreen Wallpaper
+
+### Icons
 
 - RecycleBin
 
-### Custom Sounds
+### Scheduled Tasks
+
+- LogOn Media
+- LowBattery Custom Scheduled Task Play Sound at 20% (Battery Monitoring)
+- Easter Egg - Spam Click (Mouse Click Monitoring)
+
+### Sounds
 
 - EmptyRecycleBin
 - WindowsUac
@@ -57,21 +71,6 @@ Not released yet, updating the Readme until I release it.
 - DeviceConnect
 - DeviceFail
 - DeviceDisconnect
-
-### Easter Egg
-
-- Spam Click (10 click in 3seconds or less)
-
-### Environment
-
-- Dark Mode
-- Background Wallpaper
-- LockScreen Wallpaper
-
-### Scheduled Tasks
-
-- LowBattery Custom Scheduled Task Play Sound at 20% (BatteryMonitor run each 2min)
-- LogOn Media
 
 ### System Modification
 
