@@ -2,7 +2,7 @@
 
 # W11-SAWTheme
 
-Just for fun, this is a SAW Theme for Windows 11 made using PowerShell
+Just for fun, this is a SAW Theme for Windows 11 made using PowerShell.
 
 # WIP
 
@@ -12,7 +12,7 @@ Not released yet, updating the Readme until I release it.
  - Better Alert Box for Custom Task 20% Battery Alert
  - Double Check that Custom Task 20% Battery Alert is Triggered Only Once
  - LogOnMedia depend of the "Welcome" time to LogOn, try to find a workaround
- - Arrow Cursor more precision i guess
+ - Arrow Cursor more precision (maybe change it)
 # If Possible :
  - Lock Screen Clock Modification
  - Profil Pic
@@ -30,25 +30,16 @@ Not released yet, updating the Readme until I release it.
 
 ## Feature
 
-### System Modification
-
-- LowBattery set from 10 to 15%
-
-### Wallpaper
-
-- Background Wallpaper
-- LockScreen Wallpaper
-
-### Scheduled Tasks
-
-- LowBattery Custom Scheduled Task Play Sound at 20% (BatteryMonitor run each 2min)
-- LogOn Media
-
 ### Custom Cursor
 
-- Arrow
-- Hand
-- Busy
+- Default Cursor (Arrow)
+- Hand (Hand)
+- Busy (Wait)
+- Move Arrow (SizeAll)
+- Arrow up-down (SizeNS)
+- Arrow left-right (SizeWE)
+- Arrow Diagonal 1 (SizeNWSE)
+- Arrow Diagonal 2 (SizeNESW)
 
 ### Custom Icon
 
@@ -66,3 +57,22 @@ Not released yet, updating the Readme until I release it.
 - DeviceConnect
 - DeviceFail
 - DeviceDisconnect
+
+### Easter Egg
+
+- Spam Click (10 click in 3seconds or less)
+
+### Environment
+
+- Dark Mode
+- Background Wallpaper
+- LockScreen Wallpaper
+
+### Scheduled Tasks
+
+- LowBattery Custom Scheduled Task Play Sound at 20% (BatteryMonitor run each 2min)
+- LogOn Media
+
+### System Modification
+
+- LowBattery set from 10 to 15%
