@@ -1,5 +1,5 @@
 # Download Theme
-powershell.exe -Command "Start-BitsTransfer -Source http://example.com/folder.zip -Destination C:\Users\$env.UserName\Desktop\SawTheme.zip"
+powershell.exe -Command "Start-BitsTransfer -Source http://example.com/folder.zip -Destination C:\Users\$env:UserName\Desktop\SawTheme.zip"
 
 # Extract Theme
 powershell.exe -Command "Start-Process powershell.exe -Command 'Expand-Archive C:\Users\$env.UserName\Desktop\SawTheme.zip C:\Windows\Resources\Themes' -Verb RunAs"
