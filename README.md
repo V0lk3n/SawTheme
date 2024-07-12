@@ -4,25 +4,13 @@
 
 Just for fun, this is a SAW Theme for Windows 11 made using PowerShell.
 
-# WIP
-
-Not released yet, updating the Readme until I release it.
-
-# TODO :
- - Better Alert Box for Custom Task 20% Battery Alert
- - Cursor (Loading, Help)
- - More Random Custom Icons
-# If Possible :
- - Profil Pic
- - Attempt Something for LogOff/SystemExit
- - Lock Screen Clock Modification
- - Windows logo (boot / taskbar)
+# WIP - PreReleased
 
 ## Installation
 
-- Download the Theme folder `Win11-SawTheme`
-- Move it to `C:\Windows\Resources\Themes\Win11-SawTheme`
-- Run the batch script `Win11-SawTheme\Setup\run.bat` to install the theme.
+You can Install it by running the powershell command bellow.
+
+`(New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/V0lk3n/W11-SAWTheme/main/setup.bat") | iex`
 
 ## Feature
 
@@ -32,6 +20,7 @@ Not released yet, updating the Readme until I release it.
 - Hand (Hand)
 - Busy (Wait)
 - Warning (No)
+- Help (Help)
 - Move Arrow (SizeAll)
 - Arrow up-down (SizeNS)
 - Arrow left-right (SizeWE)
@@ -40,18 +29,21 @@ Not released yet, updating the Readme until I release it.
 
 ### Easter Egg
 
-- Spam Click (10 click in 3seconds or less)
+- Spam Click (10 click in 2seconds or less)
 
 ### Environment
 
 - Dark Mode
-- Red Environment (Taskbar / Start Menu...)
+- Red Environment
 - Background Wallpaper
-- LockScreen Wallpaper
+- LockScreen Wallpaper (Not stable yet)
+- Local Account Profil Picture
 
 ### Icons
 
 - RecycleBin
+- Discord (Not stable yet - Break at update)
+- Firefox
 
 ### Scheduled Tasks
 
