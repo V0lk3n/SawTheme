@@ -10,7 +10,9 @@ Just for fun, this is a SAW Theme for Windows 11 made using PowerShell.
 
 You can Install it by running the powershell command bellow.
 
-`(New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/V0lk3n/W11-SAWTheme/main/setup.bat") | iex`
+```
+(New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/V0lk3n/W11-SAWTheme/main/setup.bat") | iex
+```
 
 ## Feature
 
