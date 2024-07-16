@@ -1,8 +1,10 @@
 ![win11_banner](https://github.com/V0lk3n/W11-SAWTheme/assets/22322762/8ae5048c-7e0e-43dd-a443-85a7dee939e2)
 
-# W11-SAWTheme
+# SawTheme
 
 Just for fun, this is a SAW Theme for Windows 11 made using PowerShell.
+
+Should work on Windows 10 too.
 
 # WIP - PreReleased
 
@@ -11,7 +13,7 @@ Just for fun, this is a SAW Theme for Windows 11 made using PowerShell.
 You can Install it by running the powershell command bellow.
 
 ```
-(New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/V0lk3n/W11-SAWTheme/main/setup.bat") | iex
+(New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/V0lk3n/SawTheme/main/setup.bat") | iex
 ```
 
 ## Feature
